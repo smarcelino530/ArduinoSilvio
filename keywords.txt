@@ -1,0 +1,11 @@
+Led	KEYWORD2
+getPorta	KEYWORD2
+setPorta	KEYWORD2
+setLigar	KEYWORD2
+acender	KEYWORD2
+apagar	KEYWORD2
+getLigado	KEYWORD2
+piscar	KEYWORD2
+isAceso	KEYWORD2
+isPwm	KEYWORD2
+inverter	KEYWORD2
